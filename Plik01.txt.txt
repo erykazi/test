@@ -3,3 +3,4 @@ Zmiana02 abcd
 Zmiana03
 Zmiana04
 Zmiana05
+Zmiana07c
