@@ -1,2 +1,10 @@
 Zmiana07b
+HEAD
 naprawa błędów - hotFix-001
+oraz
+Dodano asystenta
+uproszczenie interfejsu graficznego
+easierApp
+Zmiana08
+Zmiana09
+Zmiana10
